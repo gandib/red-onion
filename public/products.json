@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "Bagel and Cream Cheese",
+        "desc": "How we dream about our future",
+        "price": 6.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/ZHjx2DT/breakfast1.png"
+    },
+    {
+        "id": 2,
+        "name": "Breakfast Sanswich",
+        "desc": "How we dream about our future",
+        "price": 9.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/qNh3gsW/breakfast2.png"
+    },
+    {
+        "id": 3,
+        "name": "Baked Chicken",
+        "desc": "How we dream about our future",
+        "price": 10.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/F0LBpBt/breakfast3.png"
+    },
+    {
+        "id": 4,
+        "name": "Eggs Benedict",
+        "desc": "How we dream about our future",
+        "price": 8.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/R37wqFT/breakfast4.png"
+    },
+    {
+        "id": 5,
+        "name": "Toast Croissant Fried Egg",
+        "desc": "How we dream about our future",
+        "price": 19.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/zVmD2gK/breakfast5.png"
+    },
+    {
+        "id": 6,
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "desc": "How we dream about our future",
+        "price": 3.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/tqcPdjj/breakfast6.png"
+    },
+    {
+        "id": 7,
+        "name": "Healthy Meal Plan",
+        "desc": "How we dream about our future",
+        "price": 23.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/kJFCF9w/lunch1.png"
+    },
+    {
+        "id": 8,
+        "name": "Fried Chicken Bento",
+        "desc": "How we dream about our future",
+        "price": 9.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/J75jb1T/lunch2.png"
+    },
+    {
+        "id": 9,
+        "name": "Tarragon-Rubbed-Salmon",
+        "desc": "How we dream about our future",
+        "price": 6.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/PNkDtVb/lunch3.png"
+    },
+    {
+        "id": 10,
+        "name": "Indian Lunch",
+        "desc": "How we dream about our future",
+        "price": 8.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/Dk1J8Rk/lunch4.png"
+    },
+    {
+        "id": 11,
+        "name": "Mutton Steak",
+        "desc": "How we dream about our future",
+        "price": 15.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/59JZW5w/lunch5.png"
+    },
+    {
+        "id": 12,
+        "name": "Honey-Soy-Glazed with Peppers",
+        "desc": "How we dream about our future",
+        "price": 7.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/CPCPxxm/lunch6.png"
+    },
+    {
+        "id": 13,
+        "name": "Salmon with Grapefruit and Lentil Salad",
+        "desc": "How we dream about our future",
+        "price": 9.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/zJ8SLJ3/dinner1.png"
+    },
+    {
+        "id": 14,
+        "name": "Lemony Salmon Piccata",
+        "desc": "How we dream about our future",
+        "price": 10.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/pbLFvx6/dinner2.png"
+    },
+    {
+        "id": 15,
+        "name": "Pork Tenderloin with Quinoa Pilaf",
+        "desc": "How we dream about our future",
+        "price": 12.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/xY5ZPYj/dinner3.png"
+    },
+    {
+        "id": 16,
+        "name": "French Fries with Cheese",
+        "desc": "How we dream about our future",
+        "price": 8.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/DQbfTbQ/dinner4.png"
+    },
+    {
+        "id": 17,
+        "name": "Garlic Butter Baked Salmon",
+        "desc": "How we dream about our future",
+        "price": 6.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/zsN8kDn/dinner5.png"
+    },
+    {
+        "id": 18,
+        "name": "Baked Chicken",
+        "desc": "How we dream about our future",
+        "price": 9.99,
+        "quantity": 0,
+        "deliveryFee": 5,
+        "img": "https://i.ibb.co/23qxbk0/dinner6.png"
+    }
+]

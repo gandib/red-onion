@@ -1,0 +1,10 @@
+.showfood-pages {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.showfood-pages a {
+    text-decoration: none;
+    margin-right: 50px;
+}

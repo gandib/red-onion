@@ -1,0 +1,17 @@
+.persons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.persons-name-desc {
+    text-align: justify;
+    font-size: 12px;
+}
+
+.seeMore-btn {
+    border: none;
+    text-decoration: none;
+}

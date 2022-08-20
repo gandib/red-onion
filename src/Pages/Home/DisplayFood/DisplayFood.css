@@ -1,0 +1,25 @@
+.displayFood-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.displayFood-container img {
+    width: 50%;
+}
+
+.checkout-btn {
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 250px;
+}
+
+.select-item-style:focus {
+    border: 2px solid lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+}
