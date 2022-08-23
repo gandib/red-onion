@@ -60,7 +60,7 @@ const Cart = () => {
                     <input type="text" name="" id="" /><br />
                     <input type="text" name="" id="" placeholder='Flat, suit or floor' /><br />
                     <input type="text" name="" id="" placeholder='Business name' /><br />
-                    <input className='input-description' type="text" name="" id="" placeholder='Add delivery instructor' /><br />
+                    <textarea className='input-description' type="text" name="" id="" placeholder='Add delivery instructor' /><br />
                     <button className='cart-save-btn'>Save & Continue</button>
                 </div>
                 <div className='col-2'>
